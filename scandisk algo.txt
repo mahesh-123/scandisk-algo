@@ -103,5 +103,5 @@ int main()
       division(elements, limit, disk_head);
       getch();
       return 0;
-      mahesh
+      maheshreddy
 } 
